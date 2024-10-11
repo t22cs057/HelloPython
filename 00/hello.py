@@ -20,4 +20,4 @@ while p<10:
     print('p =',p)
     p += 1
 
-print(a, b, c)
+#print(a, b, c)
